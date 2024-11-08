@@ -1,0 +1,24 @@
+schema_version = "1.0.0"
+
+id = "xbake"
+version = "1.0.0"
+name = "xBake"
+tagline = "Simplified and powerful texture baking"
+maintainer = "Luke Stilson <stilson.luke@gmail.com>"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["Bake", "User Interface", "Import-Export", "Game Engine"]
+
+ website = "https://github.com/sharpen3d/xbake"
+ copyright = [
+   "2024 Luke Stilson",
+ ]
+
+ [permissions]
+ files = "Export bake texture data to disk"
