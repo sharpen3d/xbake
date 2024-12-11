@@ -74,7 +74,7 @@ blender /your/system/path/to/xbakeCLI.blend --background --python /your/system/p
     - `-normal_format`: Specify normal map format (`OPENGL` or `DIRECTX`).
     - `-resolution`: Output resolution (default `2048`).
     - `-usemayaorientation`: Uses `+Y up and +Z forward` rather than `+Z up and +Y forward` for position and normal orientation
-- Optional Arguments Continued (bake types) *all `True` by default
+- Optional Arguments Continued (bake types) *all `True` by default*
     - `-usenormal`: Enable/disable normal map baking (default `True`).
     - `-useao`: Enable/disable ambient occlusion map baking (default `True`).
     - `-usecurvature`: Enable/disable curvature map baking (default `True`).
