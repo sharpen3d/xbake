@@ -4,7 +4,10 @@ Utilize xBake from command line, allowing for batched operation and external sof
 
 ## Requirements
 
-Blender 4.2 or later
+- Blender 4.2 or later
+- Download xbakeCLI.blend and run_xbake.py from this repo -- or clone this repo to have local access to these files
+- xBake (extension installation) is *not required* to run the command line interface
+
 
 ### **Add Blender to PATH**
 
